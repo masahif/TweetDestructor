@@ -9,3 +9,8 @@ Usage:
   python3 destructor.py auth_key.json
 
 Tweet with #5d #1h #10m hash tag.
+
+
+Tweet Destructor is clone of https://www.efemr.com.
+
+Thanks
